@@ -1,0 +1,13 @@
+Lab Title: Lab 1A: Number Systems, ASCII, Timestamps and Data Representation
+References 
+1.	Apple. (n.d.). CFAbsoluteTime. Apple Developer Documentation. https://developer.apple.com/documentation/corefoundation/cfabsolutetime
+2.	Scientific Working Group on Digital Evidence. (2020). Best practices for mobile device forensic analysis (Version 1.0). https://www.swgde.org/wp-content/uploads/2023/11/2020-09-17-SWGDE-Best-Practices-for-Mobile-Device-Forensic-Analysis_v1.0.pdf
+
+
+
+Lab Title: Lab 1B: PC System Fundamentals, Disk Sectors and Partition Analysis
+References 
+1.	1. Microsoft. (n.d.). Get-Partition (Storage). Microsoft Learn. https://learn.microsoft.com/en-us/powershell/module/storage/get-partition
+2.	Microsoft. (n.d.). DiskPart. Microsoft Learn. https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart
+3.	Microsoft. (n.d.). Get-Volume (Storage). Microsoft Learn. https://learn.microsoft.com/en-us/powershell/module/storage/get-volume
+4.	Slides from ICDFA.
